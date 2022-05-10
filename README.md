@@ -6,8 +6,8 @@
 
 this is how i started. links are guides:
 1. <a href="https://docs.github.com/en/get-started/quickstart/hello-world" target="_blank">github quick start</a>
-2. [markdown cheet sheet syntax](https://www.markdownguide.org/cheat-sheet/)
-3. [extended syntax](https://www.markdownguide.org/extended-syntax)
+2. <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdown cheet sheet syntax</a>
+3. <a href="https://www.markdownguide.org/extended-syntax" target="_blank">extended syntax</a>
 
 git hub will probably take some time to learn and this is good start.
 
