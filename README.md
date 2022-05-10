@@ -12,3 +12,5 @@ this is how i started. links are guides:
 git hub will probably take some time to learn and this is good start.
 
 cheers!
+
+(https://b4c1c.github.io/hello-world/)
