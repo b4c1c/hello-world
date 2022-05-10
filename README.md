@@ -12,3 +12,4 @@ this is how i started. links are guides:
 git hub will probably take some time to learn and this is good start.
 
 cheers!
+@b4c1c
